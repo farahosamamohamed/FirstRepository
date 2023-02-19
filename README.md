@@ -1,2 +1,3 @@
-# FirstRepository
-Testing out my first Repository for my first Assignment
+Hi # :wave: I'm Farah Mohamed 
+
+## I major in actuarial science and minor in business
